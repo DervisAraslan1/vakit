@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_description">Sıradaki namaza kalan süre, günün vakitleri ve seçtiğin cami</string>
+    <string name="widget_description_4x1">Geri sayım ve günün altı vakti tek satırda</string>
+    <string name="widget_description_2x2">Seçtiğin cami ve sıradaki namaza kalan süre</string>
+    <string name="widget_description_2x1">Sıradaki namaza kalan süre</string>
+    <string name="widget_description_1x1">Sıradaki vakit ve saati</string>
+</resources>

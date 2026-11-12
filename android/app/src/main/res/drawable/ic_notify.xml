@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Kubbe, gövde ve minare: bildirim çubuğu için tek renk silüet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,21v-7h12v7h-4v-3a2,2 0,0 0,-4 0v3z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M4,13a5,5 0,0 1,10 0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,21V8l1.5,-4l1.5,4v13z" />
+</vector>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gece gökyüzü: üstte koyu lacivert, ufka doğru açılan mavi. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="54"
+                android:endY="108"
+                android:startX="54"
+                android:startY="0"
+                android:type="linear">
+                <item android:color="#FF070C2C" android:offset="0" />
+                <item android:color="#FF15236A" android:offset="0.55" />
+                <item android:color="#FF3156AE" android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Ufuk parıltısı -->
+    <path android:pathData="M54,92m-46,0a46,22 0,1 1,92 0a46,22 0,1 1,-92 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:centerX="54"
+                android:centerY="92"
+                android:gradientRadius="46"
+                android:type="radial">
+                <item android:color="#55FFC970" android:offset="0" />
+                <item android:color="#00FFC970" android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Yıldızlar -->
+    <path
+        android:fillColor="#CCFFFFFF"
+        android:pathData="M40,30m-0.9,0a0.9,0.9 0,1 1,1.8 0a0.9,0.9 0,1 1,-1.8 0" />
+    <path
+        android:fillColor="#99FFFFFF"
+        android:pathData="M47,24m-0.7,0a0.7,0.7 0,1 1,1.4 0a0.7,0.7 0,1 1,-1.4 0" />
+    <path
+        android:fillColor="#B3FFFFFF"
+        android:pathData="M76,44m-0.8,0a0.8,0.8 0,1 1,1.6 0a0.8,0.8 0,1 1,-1.6 0" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M33,41m-0.6,0a0.6,0.6 0,1 1,1.2 0a0.6,0.6 0,1 1,-1.2 0" />
+</vector>
