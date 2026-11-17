@@ -2,6 +2,10 @@
 
 Namaz vakitleri, ana ekran widget'ları, kıble pusulası, takvim, zikirmatik ve kaza takibi. Android için Flutter uygulaması.
 
+## İndir
+
+APK: [dervisaraslan1.github.io/indirmeler](https://dervisaraslan1.github.io/indirmeler/). Mağazada değil, elden kurulur.
+
 ## Özellikler
 
 - **Vakitler:** Diyanet İşleri Başkanlığı'nın ilçe bazındaki tablosu, 30 gün cihazda saklanır. İnternet yokken Diyanet yöntemiyle cihazda hesaplanır (en fazla 1 dk fark).
