@@ -34,3 +34,7 @@ flutter build apk --release --target-platform android-arm,android-arm64
 Yayın anahtarı repoda durmaz: `C:/Users/Omega/.vakit-imza/vakit-release.jks`, şifresi aynı klasördeki `key.properties` içinde. Derleme `android/key.properties` dosyasını okur (git'e girmez). Dosya yoksa release derlemesi **imzasız** kalır.
 
 Anahtar kaybolursa telefondaki uygulama bir daha güncellenemez; kullanıcıların silip baştan kurması gerekir. Klasörün yedeğini sakla.
+
+## Lisans
+
+MIT. Ayrıntılar [LICENSE](LICENSE) dosyasında.
