@@ -2,6 +2,8 @@
 
 Namaz vakitleri, ana ekran widget'ları, kıble pusulası, takvim, zikirmatik ve kaza takibi. Android için Flutter uygulaması.
 
+![Vakit ekranları: vakitler, takvim, kıble, zikirmatik](docs/ekranlar.png)
+
 ## İndir
 
 APK: [dervisaraslan1.github.io/indirmeler](https://dervisaraslan1.github.io/indirmeler/). Mağazada değil, elden kurulur.
